@@ -1,0 +1,15 @@
+{
+  "name": "genpark-code-execution-timeout-watchdog-timer-skill",
+  "version": "1.0.0",
+  "description": "Cooperative thread execution watchdog timer enforcing hard millisecond deadlines on agent code execution to prevent infinite loops.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "watchdog-timer",
+    "timeout",
+    "infinite-loop",
+    "execution-guard",
+    "genpark",
+    "mcp"
+  ]
+}
